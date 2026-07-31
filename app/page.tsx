@@ -169,7 +169,7 @@ export default function Home() {
 
           <Image
 
-            src="/IMG_4788.jPG"
+            src="/IMG_4788.JPG"
 
             alt="Xinyu profile"
 
